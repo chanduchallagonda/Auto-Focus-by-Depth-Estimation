@@ -60,6 +60,9 @@ The pipeline predicts depth and uses it to create focus-enhanced images.
 ## 🧰 Tech Stack
 Python, PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn
 
+## Unzipping data 
+Download directory nyu_dataset and unzip data1 with all z0* files in the same folder
+
 ---
 
 ## 📜 Summary
